@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://leenophou.konabreezeobx.com/sitemap.xml
